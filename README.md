@@ -14,7 +14,7 @@ Usamos [Git](https://git-scm.com/) para el versionado. Su uso es solo para fines
 
 - Rodrigo Max Lara Camarena
 
-* **Rodrigo Max Lara Camarena** -  [Rodrigo Lara](www.linkedin.com/in/rodrigolara05)
+* **Rodrigo Max Lara Camarena** -  [Rodrigo Lara](https://www.linkedin.com/in/rodrigolara05)
 
 ### Pre-requisitos 📋
 
@@ -32,4 +32,4 @@ Si deseas conocer la creación paso a paso del juego y la explicación de los re
   
 ## Enlace 🔗
 
-* **Codigo Fuente** -  [Codigo Fuente](www.youtube.com/codigofuente)
+* **Codigo Fuente** -  [Codigo Fuente](https://www.youtube.com/codigofuente)
