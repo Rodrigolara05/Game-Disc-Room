@@ -1,6 +1,5 @@
 # DiscRoom
-This is the game Disc Room in C++
-﻿# DiscRoom
+This is the game Disc Room in C++ ﻿#DiscRoom
 
 ## Comenzando 🚀
 
@@ -25,10 +24,10 @@ Uso de formularios, funcionamiento de Sprites y logica simple.
 ### Tutorial 📹
 
 Si deseas conocer la creación paso a paso del juego y la explicación de los recursos utilizados, te invito a visitar mi canal de Youtube. Donde podras conocer mas acerca de este juego, asi como:
-  Programación en C++
-  Programación Web
-  Base de Datos
-  Programación en nuevas tecnologias
+  Programación en C++,
+  Programación Web,
+  Base de Datos,
+  Programación en nuevas tecnologias,
   Y mas!
   
 ## Enlace 🔗
