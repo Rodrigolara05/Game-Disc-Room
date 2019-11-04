@@ -1,4 +1,4 @@
-# DiscRoom
+# Disc Room
 This is the game Disc Room in C++ ﻿#DiscRoom
 
 ## Comenzando 🚀
